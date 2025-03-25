@@ -1,0 +1,7 @@
+﻿1|Maní 
+2|Almendras
+3|Avellanas
+4|Pistachos
+5|Castañas
+6|Nueces
+7|Nueces de Barú
